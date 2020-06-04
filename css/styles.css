@@ -536,7 +536,7 @@ button {
   background-color: #FFFFFF;
 }
 .wrap.orange .test.container::after {
-  background-image: url(../img/logo.svg);
+  background-image: url(../img/main_logo.svg);
 }
 .wrap.orange .test.choice::before {
   background-color: #000;
@@ -578,7 +578,7 @@ button {
   background-color: #333f59;
 }
 .wrap.violet .test.container::after {
-  background-image: url(../img/logo-inverted.svg);
+  background-image: url(../img/main_logo_invert.svg);
 }
 .wrap.violet .test.choice::before {
   background-color: #fff;
