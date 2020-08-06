@@ -5,7 +5,7 @@ $headers .= 'From: Робот Теста на проф.ориентацию <nor
 
     if (isset($_POST['name'])) {$name = $_POST['name'];}
 
-$recepient = 'mokatev@yandex.ru, a.zverev@netology.ru, solar.rust@gmail.com';
+$recepient = 'mokatev@yandex.ru, a.zverev@netology.ru, d.pozdnyakova@netology.ru, solar.rust@gmail.com';
 // $recepient = " a.avtonomova@netology.ru";
 
 $sitename = "Тест на профориентацию";
